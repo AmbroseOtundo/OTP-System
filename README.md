@@ -1,4 +1,6 @@
 # OTP-System
+
+## First check out the instructions.md file and get the app password 
 ## clone the repo
 ```
 git clone https://github.com/AmbroseOtundo/OTP-System
